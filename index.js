@@ -1,0 +1,1 @@
+console.log('javascript nem é tão dificil eu acho')

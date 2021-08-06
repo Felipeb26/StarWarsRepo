@@ -4,6 +4,12 @@ Obi Wan Kenobi
 Paupatine
 leia organa
 Asoka tano
+<<<<<<< HEAD
 r2 d2
 Jabba the Hut
 Mestre Yoda
+=======
+R2 D2
+Chewbacca
+Han Solo
+>>>>>>> NOVA
