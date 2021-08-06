@@ -4,4 +4,6 @@ Obi Wan Kenobi
 Paupatine
 leia organa
 Asoka tano
-r2 d2
+R2 D2
+Chewbacca
+Han Solo
